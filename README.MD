@@ -11,7 +11,7 @@ Simple that allows you switch between localization without reinstalling the game
 
 MinGW
 ```sh
-gcc change_locale.c -o change_locale.c
+gcc change_locale.c -o change_locale.exe
 ```
 
 ### How it works?
